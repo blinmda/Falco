@@ -1,0 +1,12 @@
+falco:
+  rules_files:
+    - /etc/falco/rules.d
+falcosidekick:
+  enabled: true
+  config:
+    telegram:
+      enabled: true
+      token: "7585362910:AAEJNMZ3Bp4weam8e4Ts6zZZ3sGwl_Qqw3M"
+      chatid: "-4756250851"
+      
+
